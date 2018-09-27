@@ -1,7 +1,6 @@
 #include <iostream>
 
 void main() {
-using namespace std;
-cout<<"Hellow world!"<<endl;
+std::cout<<"Hellow world!"<<std::endl;
 system("pause");
 }
